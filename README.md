@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Rajat<br><br>🎓 Data Science Aspirant<br>💼 Currently working as an Intern at LeanQubit  <br><br>🚀 I’m passionate about Data Science, Machine Learning, and AI  <br>📊 I enjoy working with data, building intelligent systems, and solving real-world problems  <br><br>🧠 Currently working on:<br>- Statistical Process Control (SPC)<br>- Anomaly Detection (Z-score, etc.)<br>- Backend APIs & Data Processing<br><br>💻 Tech Stack:<br>- Python | SQL<br>- Machine Learning<br>- Data Analysis & Visualization<br><br>🎯 Goal:<br>To become a Data Scientist / AI-ML Engineer and build impactful data-driven solutions  <br><br>📫 Let's connect!
 
 
